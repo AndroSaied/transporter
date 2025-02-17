@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853020234250",
+    "project_id": "transporter-2633d",
+    "storage_bucket": "transporter-2633d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853020234250:android:aeea508198ecaab7e305f3",
+        "android_client_info": {
+          "package_name": "com.alidomainiraq.transporter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1mOpAZA_Msw-ASFYzB_Yr7iuGVi_mUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

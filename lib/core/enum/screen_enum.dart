@@ -1,0 +1,1 @@
+enum ScreenStatus {init, loading, error, success, empty}
